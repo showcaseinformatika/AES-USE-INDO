@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+regex
+tensorflow
+tensorflow_hub
+scikit-learn
+Sastrawi
